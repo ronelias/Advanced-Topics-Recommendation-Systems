@@ -54,3 +54,7 @@ Predict user preference between pairs of new items based on metadata and images.
 ### Deliverables
 Predicted Ratings: Submit CSV files with predicted ratings for user-item pairs.
 Pairwise Predictions: Submit CSV files with predicted preference classes (0 or 1).
+
+### Dataset availability
+https://amazon-reviews-2023.github.io/
+
