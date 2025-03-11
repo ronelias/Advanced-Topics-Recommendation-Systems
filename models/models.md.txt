@@ -1,0 +1,3 @@
+# Models dir
+Since the models are too big, we couldn't upload them to this directory in GitHub.
+They will be provided upon request. 
